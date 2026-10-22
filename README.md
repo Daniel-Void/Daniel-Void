@@ -75,7 +75,7 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 
 <br/>
 
-<img src="./Ícone Minimalista de Timão em Preto.png" width="40" style="vertical-align: -8px;"> <sub>**26 SKILLS** ▪ **7 DOMÍNIOS** ▪ EVOLUÇÃO CONTÍNUA</sub>
+<img src="./Ícone Minimalista de Timão em Preto.png" width="40" style="vertical-align: -30px;"> <sub>**26 SKILLS** ▪ **7 DOMÍNIOS** ▪ EVOLUÇÃO CONTÍNUA</sub>
 
 </div>
 

@@ -238,51 +238,6 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
 
-## `02.5` &nbsp;//&nbsp; ADAPTIVE CORE METRICS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PRECISION-■■■■■■■■□□-080808?style=for-the-badge&labelColor=080808&color=8B001E" alt="Indicador visual de precisão"/>
-<img src="https://img.shields.io/badge/ADAPTATION-■■■■■■■■■■-080808?style=for-the-badge&labelColor=080808&color=8B001E" alt="Indicador visual de adaptação"/>
-<img src="https://img.shields.io/badge/EXECUTION-■■■■■■■□□□-080808?style=for-the-badge&labelColor=080808&color=8B001E" alt="Indicador visual de execução"/>
-
-<sub>INDICADORES ESTÉTICOS DO TEMA — NÃO REPRESENTAM MÉTRICAS REAIS DE DESEMPENHO.</sub>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Daniel-Void&show_icons=true&hide_border=true&bg_color=080808&title_color=FF2638&text_color=E6DDE0&icon_color=FF2638&ring_color=8B001E&include_all_commits=true" height="165" alt="Estatísticas públicas do GitHub"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Void&layout=compact&hide_border=true&bg_color=080808&title_color=FF2638&text_color=E6DDE0&langs_count=8" height="165" alt="Linguagens detectadas nos repositórios"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Void&hide_border=true&background=080808&ring=FF2638&fire=FF2638&currStreakLabel=FF2638&sideLabels=E6DDE0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B777C" width="80%" alt="Sequência de contribuições"/>
-
-</div>
-
-<details>
-<summary><strong>▣ ABRIR ARQUIVO CONFIDENCIAL // DETALHES DO NÚCLEO</strong></summary>
-
-<br/>
-
-```text
-FILE      : VOID-001
-ACCESS    : PUBLIC PROFILE
-DIRECTIVE : TURN COMPLEXITY INTO CLARITY
-METHOD    : OBSERVE / ANALYZE / BUILD / ITERATE
-OUTPUT    : FUNCTIONAL DIGITAL EXPERIENCES
-```
-
-- Interfaces com direção visual e atenção à usabilidade.
-- Sistemas que conectam dados, APIs e fluxos operacionais.
-- Automações que reduzem tarefas repetitivas.
-- Aprendizado contínuo guiado por problemas reais.
-
-</details>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=13&duration=3000&pause=900&color=FF2638&center=true&vCenter=true&repeat=true&width=760&height=40&lines=%E2%97%88+TOOLS+ARE+MEANS.;%E2%97%88+THE+PROBLEM+DEFINES+THE+TECHNOLOGY.;%E2%97%88+THE+RESULT+DEFINES+THE+SUCCESS." alt="Princípios rotativos"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:160008,50:FF2638,100:160008" width="100%" alt=""/>
-
 ## `03` &nbsp;//&nbsp; PROJETOS ATIVOS
 
 <table>
@@ -333,7 +288,7 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <img src="https://raw.githubusercontent.com/Daniel-Void/Daniel-Void/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação snake do gráfico de contribuições"/>
 
-<sub>CONTRIBUTION MATRIX // A animação aparece após configurar o workflow do repositório.</sub>
+<sub>CONTRIBUTION MATRIX // GERADA AUTOMATICAMENTE PELO GITHUB ACTIONS</sub>
 
 </div>
 

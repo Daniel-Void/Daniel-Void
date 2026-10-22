@@ -5,12 +5,12 @@
 <div align="center">
 
 <a href="https://github.com/Daniel-Void">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=285&color=0:030303,15:100006,35:30000D,60:8B001E,80:42000E,100:030303&text=DANIEL%20VOID&fontColor=FFFFFF&fontSize=82&fontAlignY=41&fontFamily=Orbitron&fontWeight=900&stroke=FF1744&strokeWidth=1.5&desc=THE%20ADAPTATION%20PROTOCOL&descSize=17&descAlignY=61&animation=fadeIn" width="100%" alt="DANIEL VOID | The Adaptation Protocol"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=285&color=0:030303,15:100006,35:30000D,60:8B001E,80:42000E,100:030303&text=DANIEL%20VOID&fontColor=FFFFFF&fontSize=82&fontAlignY=41&fontFamily=Michroma&fontWeight=900&stroke=FF1744&strokeWidth=1.5&desc=THE%20ADAPTATION%20PROTOCOL&descSize=17&descAlignY=61&animation=fadeIn" width="100%" alt="DANIEL VOID | The Adaptation Protocol"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=2200&pause=650&color=FF1744&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%E2%96%B6+INITIALIZING+ADAPTATION+SYSTEM;%E2%96%B6+OBSERVE.+ANALYZE.+EVOLVE.;%E2%96%B6+LIMITATIONS+ARE+VARIABLES.;%E2%96%B6+SYSTEM+STATUS%3A+CONTINUOUS+EVOLUTION" alt="Adaptation system status"/>
+<img src="https://readme-typing-svg.demolab.com?font=Michroma&weight=600&size=14&duration=2200&pause=650&color=FF1744&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%E2%96%B6+INITIALIZING+ADAPTATION+SYSTEM;%E2%96%B6+OBSERVE.+ANALYZE.+EVOLVE.;%E2%96%B6+LIMITATIONS+ARE+VARIABLES.;%E2%96%B6+SYSTEM+STATUS%3A+CONTINUOUS+EVOLUTION" alt="Adaptation system status"/>
 
 <br/><br/>
 
@@ -219,7 +219,7 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=4000&pause=2500&color=B75A67&center=true&vCenter=true&width=750&height=55&lines=FERRAMENTAS+S%C3%83O+MEIOS.;O+PROBLEMA+DEFINE+A+TECNOLOGIA.;A+ENTREGA+DEFINE+O+RESULTADO." alt="Princípios de desenvolvimento"/>
+<img src="https://readme-typing-svg.demolab.com?font=Michroma&weight=500&size=14&duration=4000&pause=2500&color=B75A67&center=true&vCenter=true&width=750&height=55&lines=FERRAMENTAS+S%C3%83O+MEIOS.;O+PROBLEMA+DEFINE+A+TECNOLOGIA.;A+ENTREGA+DEFINE+O+RESULTADO." alt="Princípios de desenvolvimento"/>
 
 </div>
 
@@ -286,7 +286,7 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&duration=2100&pause=600&color=FF2638&center=false&vCenter=true&repeat=true&width=540&height=35&lines=%5BOPERATION%5D+ADAPTATION+ACTIVE;%5BANALYSIS%5D+PATTERNS+DETECTED;%5BEVOLUTION%5D+PROTOCOL+CONTINUES" alt="Status da operação"/>
+<img src="https://readme-typing-svg.demolab.com?font=Michroma&weight=600&size=13&duration=2100&pause=600&color=FF2638&center=false&vCenter=true&repeat=true&width=540&height=35&lines=%5BOPERATION%5D+ADAPTATION+ACTIVE;%5BANALYSIS%5D+PATTERNS+DETECTED;%5BEVOLUTION%5D+PROTOCOL+CONTINUES" alt="Status da operação"/>
 
 **PRECISÃO** · **ADAPTAÇÃO** · **DESEMPENHO** · **MANUTENÇÃO** · **ENTREGA**
 
@@ -326,7 +326,7 @@ Detalhes visuais precisam ter propósito. A ferramenta serve ao problema. O cód
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=15&duration=4000&pause=2500&color=FF5967&center=true&vCenter=true&width=750&height=65&lines=VAMOS+CONSTRUIR+ALGO+QUE+IMPORTE.;SEM+PROMESSAS+VAZIAS.+PROJETOS+REAIS.;CONEX%C3%83O+ESTABELECIDA%3F" alt="Mensagem animada de contato"/>
+<img src="https://readme-typing-svg.demolab.com?font=Michroma&weight=500&size=15&duration=4000&pause=2500&color=FF5967&center=true&vCenter=true&width=750&height=65&lines=VAMOS+CONSTRUIR+ALGO+QUE+IMPORTE.;SEM+PROMESSAS+VAZIAS.+PROJETOS+REAIS.;CONEX%C3%83O+ESTABELECIDA%3F" alt="Mensagem animada de contato"/>
 
 <br/>
 

@@ -48,7 +48,7 @@
 <tr>
 <td width="68%" valign="middle">
 
-<img src="Ícone Minimalista de Timão em Preto.png" width="30" align="center"> Operação Desenvolvedor focado em **experiências digitais**, **interfaces de alto impacto** e **sistemas funcionais**. Combino front-end, animações, integração de serviços e direção visual para transformar ideias em produtos digitais consistentes.
+<img src="./Ícone Minimalista de Timão em Preto.png" width="30" style="vertical-align: 4px;"> Operação Desenvolvedor focado em **experiências digitais**, **interfaces de alto impacto** e **sistemas funcionais**. Combino front-end, animações, integração de serviços e direção visual para transformar ideias em produtos digitais consistentes.
 
 Desenvolvo websites autorais, landing pages, sistemas personalizados e automações sob medida.
 

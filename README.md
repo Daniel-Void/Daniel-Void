@@ -55,6 +55,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:200008,50:FF1744,100:200008" width="100%" alt=""/>
 
+## `00` &nbsp;//&nbsp; CORE INITIALIZATION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=1800&pause=500&color=FF2638&center=true&vCenter=true&repeat=true&width=760&height=38&lines=%5BBOOT%5D+LOADING+ADAPTATION+CORE...;%5BSCAN%5D+ANALYZING+AVAILABLE+SYSTEMS...;%5BCORE%5D+KNOWLEDGE+ACQUISITION+ACTIVE;%5BSTATUS%5D+EVOLUTION+IN+PROGRESS" alt="Terminal de inicialização"/>
+
+</div>
+
+```text
+┌─ VOID / SYSTEM MONITOR ───────────────────────────────────┐
+│ IDENTITY     : DANIEL VOID                                │
+│ CORE         : ADAPTATION                                 │
+│ SPECIALTY    : DIGITAL SYSTEMS / CREATIVE ENGINEERING     │
+│ DIRECTIVE    : OBSERVE > ANALYZE > ADAPT > OVERCOME       │
+│ SECURITY     : PUBLIC PROFILE                             │
+└───────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/VOID--001-IDENTITY-080808?style=for-the-badge&labelColor=080808&color=8B001E" alt="VOID-001"/>
+<img src="https://img.shields.io/badge/ADP--∞-PROTOCOL-080808?style=for-the-badge&labelColor=080808&color=8B001E" alt="ADP protocol"/>
+<img src="https://img.shields.io/badge/CORE-ADAPTIVE-080808?style=for-the-badge&labelColor=080808&color=8B001E" alt="Adaptive core"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:160008,50:FF2638,100:160008" width="76%" alt=""/>
+
+</div>
+
 ## `01` &nbsp;//&nbsp; O OPERADOR
 
 <table>
@@ -208,6 +238,51 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
 
+## `02.5` &nbsp;//&nbsp; ADAPTIVE CORE METRICS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PRECISION-■■■■■■■■□□-080808?style=for-the-badge&labelColor=080808&color=8B001E" alt="Indicador visual de precisão"/>
+<img src="https://img.shields.io/badge/ADAPTATION-■■■■■■■■■■-080808?style=for-the-badge&labelColor=080808&color=8B001E" alt="Indicador visual de adaptação"/>
+<img src="https://img.shields.io/badge/EXECUTION-■■■■■■■□□□-080808?style=for-the-badge&labelColor=080808&color=8B001E" alt="Indicador visual de execução"/>
+
+<sub>INDICADORES ESTÉTICOS DO TEMA — NÃO REPRESENTAM MÉTRICAS REAIS DE DESEMPENHO.</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Daniel-Void&show_icons=true&hide_border=true&bg_color=080808&title_color=FF2638&text_color=E6DDE0&icon_color=FF2638&ring_color=8B001E&include_all_commits=true" height="165" alt="Estatísticas públicas do GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Void&layout=compact&hide_border=true&bg_color=080808&title_color=FF2638&text_color=E6DDE0&langs_count=8" height="165" alt="Linguagens detectadas nos repositórios"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Void&hide_border=true&background=080808&ring=FF2638&fire=FF2638&currStreakLabel=FF2638&sideLabels=E6DDE0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B777C" width="80%" alt="Sequência de contribuições"/>
+
+</div>
+
+<details>
+<summary><strong>▣ ABRIR ARQUIVO CONFIDENCIAL // DETALHES DO NÚCLEO</strong></summary>
+
+<br/>
+
+```text
+FILE      : VOID-001
+ACCESS    : PUBLIC PROFILE
+DIRECTIVE : TURN COMPLEXITY INTO CLARITY
+METHOD    : OBSERVE / ANALYZE / BUILD / ITERATE
+OUTPUT    : FUNCTIONAL DIGITAL EXPERIENCES
+```
+
+- Interfaces com direção visual e atenção à usabilidade.
+- Sistemas que conectam dados, APIs e fluxos operacionais.
+- Automações que reduzem tarefas repetitivas.
+- Aprendizado contínuo guiado por problemas reais.
+
+</details>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=13&duration=3000&pause=900&color=FF2638&center=true&vCenter=true&repeat=true&width=760&height=40&lines=%E2%97%88+TOOLS+ARE+MEANS.;%E2%97%88+THE+PROBLEM+DEFINES+THE+TECHNOLOGY.;%E2%97%88+THE+RESULT+DEFINES+THE+SUCCESS." alt="Princípios rotativos"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:160008,50:FF2638,100:160008" width="100%" alt=""/>
+
 ## `03` &nbsp;//&nbsp; PROJETOS ATIVOS
 
 <table>
@@ -254,43 +329,53 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Daniel-Void/Daniel-Void/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação snake do gráfico de contribuições"/>
+
+<sub>CONTRIBUTION MATRIX // A animação aparece após configurar o workflow do repositório.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:160008,50:FF2638,100:160008" width="100%" alt=""/>
 
 ## `04` &nbsp;//&nbsp; PRINCÍPIOS OPERACIONAIS
 
 <table>
 <tr>
-<td align="center" width="20%" valign="top">
-<img src="./Ícone Minimalista de Timão em Preto.png" width="50" height="50" alt="Roda de adaptação"/>
+<td width="72%" valign="middle">
+
+<div align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&duration=2100&pause=600&color=FF2638&center=false&vCenter=true&repeat=true&width=540&height=35&lines=%5BOPERATION%5D+ADAPTATION+ACTIVE;%5BANALYSIS%5D+PATTERNS+DETECTED;%5BEVOLUTION%5D+PROTOCOL+CONTINUES" alt="Status da operação"/>
+
+**PRECISÃO** · **ADAPTAÇÃO** · **DESEMPENHO** · **MANUTENÇÃO** · **ENTREGA**
+
+Detalhes visuais precisam ter propósito. A ferramenta serve ao problema. O código deve continuar compreensível depois do último commit. Projeto concluído é projeto funcional.
+
+</div>
+
 </td>
-<td align="center" width="20%" valign="top">
-<img src="./Ícone Minimalista de Timão em Preto.png" width="50" height="50" alt="Roda de adaptação"/>
+<td width="28%" align="center" valign="middle">
+
+<img src="https://media1.tenor.com/m/JNsDGClSX-4AAAAd/jujutsu-kaisen-mahoraga.gif" width="135" alt="Roda de adaptação de Mahoraga"/>
+
+<sub>ADAPTATION CORE</sub>
+
+<sub>ANALYZE → ADAPT → OVERCOME</sub>
+
 </td>
-<td align="center" width="20%" valign="top">
-<img src="./Ícone Minimalista de Timão em Preto.png" width="50" height="50" alt="Roda de adaptação"/>
-</td>
-<td align="center" width="20%" valign="top">
-<img src="./Ícone Minimalista de Timão em Preto.png" width="50" height="50" alt="Roda de adaptação"/>
-</td>
-<td align="center" width="20%" valign="top">
-<img src="./Ícone Minimalista de Timão em Preto.png" width="50" height="50" alt="Roda de adaptação"/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top"><strong>PRECISÃO</strong></td>
-<td align="center" valign="top"><strong>ADAPTAÇÃO</strong></td>
-<td align="center" valign="top"><strong>DESEMPENHO</strong></td>
-<td align="center" valign="top"><strong>MANUTENÇÃO</strong></td>
-<td align="center" valign="top"><strong>ENTREGA</strong></td>
-</tr>
-<tr>
-<td align="center" valign="top" height="90"><sub>Detalhes visuais precisam ter propósito.</sub></td>
-<td align="center" valign="top" height="90"><sub>A ferramenta serve ao problema, não o contrário.</sub></td>
-<td align="center" valign="top" height="90"><sub>Animações não justificam uma interface inutilizável.</sub></td>
-<td align="center" valign="top" height="90"><sub>O código deve continuar compreensível depois do último commit.</sub></td>
-<td align="center" valign="top" height="90"><sub>Projeto concluído é projeto funcional.</sub></td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROTOCOL-OBSERVE-080808?style=flat-square&labelColor=080808&color=8B001E" alt="Observe"/>
+<img src="https://img.shields.io/badge/PROTOCOL-ANALYZE-080808?style=flat-square&labelColor=080808&color=8B001E" alt="Analyze"/>
+<img src="https://img.shields.io/badge/PROTOCOL-ADAPT-080808?style=flat-square&labelColor=080808&color=8B001E" alt="Adapt"/>
+<img src="https://img.shields.io/badge/PROTOCOL-OVERCOME-080808?style=flat-square&labelColor=080808&color=8B001E" alt="Overcome"/>
+
+</div>
 
 <br/>
 
@@ -320,7 +405,11 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <br/><br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=2600&pause=700&color=FF2638&center=true&vCenter=true&repeat=true&width=760&height=32&lines=%5BTRANSMISSION%5D+CONNECTION+ESTABLISHED;%5BVOID-001%5D+SYSTEM+STAYS+ADAPTIVE;%5BEND+OF+FILE%5D+EVOLUTION+CONTINUES" alt="Transmissão final"/>
+
 <sub>DESENVOLVIDO PARA SE ADAPTAR ▪ FEITO PARA ENTREGAR</sub>
+
+<sub>◈ VOID-001 &nbsp; · &nbsp; ADP-∞ &nbsp; · &nbsp; CORE ACTIVE</sub>
 
 <br/><br/>
 
@@ -334,6 +423,6 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 NOTAS:
 - O GitHub não executa JavaScript ou CSS personalizado no README.
 - As animações são fornecidas por SVGs externos.
-- A imagem do timão precisa estar na raiz do repositório.
+- A roda de adaptação usa um GIF externo; sua disponibilidade depende do Tenor.
 -->
 ```

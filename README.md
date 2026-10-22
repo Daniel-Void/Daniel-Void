@@ -1,4 +1,3 @@
-```markdown
 <!-- DANIEL VOID // MAHORAGA ADAPTATION SYSTEM v4 -->
 
 <div align="center">

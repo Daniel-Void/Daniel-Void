@@ -42,11 +42,28 @@
 
 ## `01` &nbsp;//&nbsp; O OPERADOR
 
+
+
+<table>
+<tr>
+<td width="68%" valign="middle">
+
 Desenvolvedor focado em **experiências digitais**, **interfaces de alto impacto** e **sistemas funcionais**. Combino front-end, animações, integração de serviços e direção visual para transformar ideias em produtos digitais consistentes.
 
 À frente da **AETHER**, desenvolvo websites, landing pages, sistemas personalizados e automações sob medida.
 
 > *A estética chama atenção. A arquitetura sustenta o resultado. E se o código também parece um filme de terror, temos um problema.*
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="https://media1.tenor.com/m/JNsDGClSX-4AAAAd/jujutsu-kaisen-mahoraga.gif" width="190" alt="Mahoraga com a roda de adaptação"/>
+
+<sub>RODA DE ADAPTAÇÃO<br/>ANALISAR → AJUSTAR → SUPERAR</sub>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
 
@@ -214,28 +231,7 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
 
-## `04` &nbsp;//&nbsp; TELEMETRIA DO SISTEMA
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Daniel-Void&show_icons=true&hide_border=true&bg_color=080808&title_color=ff2638&icon_color=ff2638&text_color=e6e6e6&ring_color=ff2638&count_private=true" alt="Estatísticas do GitHub"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Void&layout=compact&hide_border=true&bg_color=080808&title_color=ff2638&text_color=e6e6e6&langs_count=8" alt="Linguagens mais usadas"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Daniel-Void&hide_border=true&background=080808&ring=ff2638&fire=ff2638&currStreakLabel=ff2638&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=777777" alt="Sequência de contribuições"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-Void&bg_color=080808&color=ff2638&line=ff2638&point=ffffff&area=true&area_color=ff2638&hide_border=true&radius=8" alt="Gráfico de atividade"/>
-
-<sub>Estatísticas carregadas por serviços externos. Se falharem, nem toda técnica amaldiçoada resolve.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
-
-## `05` &nbsp;//&nbsp; PRINCÍPIOS OPERACIONAIS
+## `04` &nbsp;//&nbsp; PRINCÍPIOS OPERACIONAIS
 
 <table>
 <tr>
@@ -253,7 +249,7 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
 
-## `06` &nbsp;//&nbsp; ESTABELECER CONEXÃO
+## `05` &nbsp;//&nbsp; ESTABELECER CONEXÃO
 
 <div align="center">
 

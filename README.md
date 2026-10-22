@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/Daniel-Void">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=285&color=0:030303,15:100006,35:30000D,60:8B001E,80:42000E,100:030303&text=DANIEL%20VOID&fontColor=FFFFFF&fontSize=96&fontAlignY=42&fontFamily=monospace&stroke=FF1744&strokeWidth=2&desc=THE%20ADAPTATION%20PROTOCOL&descSize=17&descAlignY=63&animation=fadeIn" width="100%" alt="DANIEL VOID | The Adaptation Protocol"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=285&color=0:030303,15:100006,35:30000D,60:8B001E,80:42000E,100:030303&text=DANIEL%20VOID&fontColor=FFFFFF&fontSize=96&fontAlignY=42&fontFamily=Michroma&stroke=FF1744&strokeWidth=2&desc=THE%20ADAPTATION%20PROTOCOL&descSize=17&descAlignY=63&animation=fadeIn" width="100%" alt="DANIEL VOID | The Adaptation Protocol"/>
 </a>
 
 <br/>

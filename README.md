@@ -122,7 +122,7 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 
 <br/><br/>
 
-<sub><strong>26 SKILLS</strong> ▪ <strong>7 DOMÍNIOS</strong> ▪ EVOLUÇÃO CONTÍNUA</sub>
+<sub>ARSENAL TÉCNICO // EVOLUÇÃO CONTÍNUA</sub>
 
 </div>
 

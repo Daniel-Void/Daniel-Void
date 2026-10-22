@@ -43,16 +43,6 @@
 
 <br/>
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║  OPERADOR ........ DANIEL VOID                           ║
-║  ORGANIZAÇÃO ..... AETHER                                ║
-║  FOCO ............ INTERFACES · SISTEMAS · AUTOMAÇÃO     ║
-║  STATUS .......... ADAPTANDO                             ║
-║  PROTOCOLO ....... ANALISAR → AJUSTAR → SUPERAR          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:200008,50:FF1744,100:200008" width="100%" alt=""/>
 
 ## `00` &nbsp;//&nbsp; CORE INITIALIZATION

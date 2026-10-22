@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/hero-mahoraga.png" width="100%" alt="Mahoraga rasgando o tecido do README"/>
+<img src="hero-mahoraga.png" width="100%" alt="Mahoraga rasgando o tecido do README"/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=DANIEL%20VOID&fontSize=62&fontColor=ff2638&fontAlignY=55&animation=fadeIn&stroke=ff2638&strokeWidth=1" width="100%" alt="Daniel Void"/>
 

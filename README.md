@@ -2,9 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=0,2,12,24&text=DANIEL%20VOID&fontSize=64&fontColor=ff2638&fontAlignY=36&animation=fadeIn&stroke=ff2638&strokeWidth=1&desc=ADAPTA%C3%87%C3%83O%20%C3%89%20EVOLU%C3%87%C3%83O&descSize=18&descAlignY=58&descColor=e6e6e6" width="100%" alt="Daniel Void — banner"/>
+<img src="./assets/hero-mahoraga.png" width="100%" alt="Mahoraga rasgando o tecido do README"/>
 
-<img src="https://media1.tenor.com/m/JNsDGClSX-4AAAAd/jujutsu-kaisen-mahoraga.gif" width="430" alt="Mahoraga em movimento — sua adaptação em combate"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=DANIEL%20VOID&fontSize=62&fontColor=ff2638&fontAlignY=55&animation=fadeIn&stroke=ff2638&strokeWidth=1" width="100%" alt="Daniel Void"/>
+
+<img src="https://media1.tenor.com/m/RgcmmAArI4MAAAAC/jjk.gif" width="320" alt="Mahoraga em pixel art"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2400&pause=850&color=FF2638&center=true&vCenter=true&width=850&lines=ADAPTA%C3%87%C3%83O+%C3%89+EVOLU%C3%87%C3%83O.;C%C3%93DIGO.+DESIGN.+RESULTADO.;NENHUM+BUG+SOBREVIVE+PARA+SEMPRE.;BEM-VINDO+AO+MEU+DOM%C3%8DNIO." alt="Frases animadas"/>
 

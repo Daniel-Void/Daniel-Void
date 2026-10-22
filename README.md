@@ -1,16 +1,25 @@
- <!-- DANIEL VOID // MAHORAGA ADAPTATION SYSTEM v3 -->
+```markdown
+<!-- DANIEL VOID // MAHORAGA ADAPTATION SYSTEM v4 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=DANIEL%20VOID&fontSize=62&fontColor=ff2638&fontAlignY=55&animation=fadeIn&stroke=ff2638&strokeWidth=1" width="100%" alt="Daniel Void"/>
+<a href="https://github.com/Daniel-Void">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=DANIEL%20VOID&fontSize=68&fontColor=ff2638&stroke=ff2638&strokeWidth=1&animation=fadeIn&color=0:050505,35:160307,70:390711,100:050505&desc=ADAPTATION%20%2F%20ENGINEERING%20%2F%20CREATION&descSize=13&descAlignY=75&descColor=b9a1a5" width="100%" alt="Daniel Void"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2400&pause=850&color=FF2638&center=true&vCenter=true&width=850&lines=ADAPTA%C3%87%C3%83O+%C3%89+EVOLU%C3%87%C3%83O.;C%C3%93DIGO.+DESIGN.+RESULTADO.;NENHUM+BUG+SOBREVIVE+PARA+SEMPRE.;BEM-VINDO+AO+MEU+DOM%C3%8DNIO." alt="Frases animadas"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&duration=4000&pause=2400&color=E8A0A8&center=true&vCenter=true&width=850&height=70&lines=At%C3%A9+o+que+n%C3%A3o+sei+posso+compreender.;Prefiro+estudar+suas+leis+antes+da+dor.;ADAPTA%C3%87%C3%83O+%C3%89+EVOLU%C3%87%C3%83O.;C%C3%93DIGO.+DESIGN.+RESULTADO." alt="Princípios de Daniel Void"/>
 
 <br/>
 
-**`DESENVOLVEDOR`** ▪ **`ENGENHARIA CRIATIVA`** ▪ **`FUNDADOR DA AETHER`**
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
-<br/>
+<br/><br/>
+
+**`DESENVOLVEDOR`** &nbsp;▪&nbsp; **`ENGENHARIA CRIATIVA`** &nbsp;▪&nbsp; **`FUNDADOR DA AETHER`**
+
+<br/><br/>
 
 <a href="https://daniel.aethersingle.online/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-ff2638?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=080808" alt="Portfólio"/></a>
 <a href="https://aethersingle.online/"><img src="https://img.shields.io/badge/AETHER-ff2638?style=for-the-badge&logo=abstract&logoColor=white&labelColor=080808" alt="Aether"/></a>
@@ -22,6 +31,10 @@
 <img src="https://img.shields.io/badge/MODO-ADAPTATIVO-ff2638?style=flat-square&labelColor=080808" alt="Modo adaptativo"/>
 <img src="https://img.shields.io/badge/CAOS-CONTROLADO-ff2638?style=flat-square&labelColor=080808" alt="Caos controlado"/>
 <img src="https://img.shields.io/badge/DISPON%C3%8DVEL-PARA%20PROJETOS-ff2638?style=flat-square&labelColor=080808" alt="Disponível para projetos"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8b1525" width="78%" alt=""/>
 
 </div>
 
@@ -56,7 +69,11 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 
 <img src="https://media1.tenor.com/m/JNsDGClSX-4AAAAd/jujutsu-kaisen-mahoraga.gif" width="190" alt="Mahoraga com a roda de adaptação"/>
 
-<sub>RODA DE ADAPTAÇÃO<br/>ANALISAR → AJUSTAR → SUPERAR</sub>
+<br/>
+
+<sub>RODA DE ADAPTAÇÃO</sub>
+
+<sub>ANALISAR → AJUSTAR → SUPERAR</sub>
 
 </td>
 </tr>
@@ -177,8 +194,13 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 </details>
 
 <div align="center">
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2200&pause=900&color=FF2638&center=true&vCenter=true&width=700&lines=FERRAMENTAS+S%C3%83O+MEIOS.;O+PROBLEMA+DEFINE+A+TECNOLOGIA.;A+ENTREGA+DEFINE+O+RESULTADO." alt="Princípios animados"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8b1525" width="65%" alt=""/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=4000&pause=2500&color=B75A67&center=true&vCenter=true&width=750&height=55&lines=FERRAMENTAS+S%C3%83O+MEIOS.;O+PROBLEMA+DEFINE+A+TECNOLOGIA.;A+ENTREGA+DEFINE+O+RESULTADO." alt="Princípios de desenvolvimento"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
@@ -197,7 +219,7 @@ Websites, landing pages, sistemas de gestão, automações e integrações desen
 
 <br/>
 
-<a href="https://aethersingle.online/"><img src="https://img.shields.io/badge/ACESSAR_↗-ff2638?style=for-the-badge&labelColor=080808" alt="Acessar Aether"/></a>
+<a href="https://aethersingle.online/"><img src="https://img.shields.io/badge/ACESSAR-ff2638?style=for-the-badge&labelColor=080808" alt="Acessar Aether"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -210,7 +232,7 @@ Experimentos com animações, interfaces imersivas, efeitos visuais e experiênc
 
 <br/>
 
-<a href="https://daniel.aethersingle.online/"><img src="https://img.shields.io/badge/EXPLORAR_↗-ff2638?style=for-the-badge&labelColor=080808" alt="Explorar projetos"/></a>
+<a href="https://daniel.aethersingle.online/"><img src="https://img.shields.io/badge/EXPLORAR-ff2638?style=for-the-badge&labelColor=080808" alt="Explorar projetos"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -277,7 +299,7 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2300&pause=900&color=FF2638&center=true&vCenter=true&width=700&lines=VAMOS+CONSTRUIR+ALGO+QUE+IMPORTE.;SEM+PROMESSAS+VAZIAS.+PROJETOS+REAIS.;CONEX%C3%83O+ESTABELECIDA%3F" alt="Mensagem animada de contato"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=15&duration=4000&pause=2500&color=FF5967&center=true&vCenter=true&width=750&height=65&lines=VAMOS+CONSTRUIR+ALGO+QUE+IMPORTE.;SEM+PROMESSAS+VAZIAS.+PROJETOS+REAIS.;CONEX%C3%83O+ESTABELECIDA%3F" alt="Mensagem animada de contato"/>
 
 <br/>
 
@@ -291,15 +313,24 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <br/><br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8b1525" width="65%" alt=""/>
+
+<br/><br/>
+
 <sub>DESENVOLVIDO PARA SE ADAPTAR ▪ FEITO PARA ENTREGAR</sub>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,2,12,24&section=footer&reversal=true" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:080808,50:390711,100:080808&section=footer&reversal=true" width="100%" alt=""/>
 
 <sub>© DANIEL VOID / AETHER — 2026</sub>
 
 </div>
 
-<!-- Nota: o GitHub não executa JavaScript ou CSS personalizado em README.
-     As animações são imagens SVG externas. -->
+<!--
+NOTAS:
+- O GitHub não executa JavaScript ou CSS personalizado no README.
+- As animações são fornecidas por SVGs externos.
+- A imagem do timão precisa estar na raiz do repositório.
+-->
+```

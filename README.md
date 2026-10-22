@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/XM1c6PH4sEkAAAAd/mahoraga.gif" width="430" alt="Mahoraga em movimento — sua adaptação em combate"/>
+<img src="https://jujutsu-kaisen.fandom.com/wiki/Special:FilePath/Mahoraga%27s_adaptation_ability_(Anime).gif" width="430" alt="Mahoraga em movimento — sua adaptação em combate"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2400&pause=850&color=FF2638&center=true&vCenter=true&width=850&lines=ADAPTA%C3%87%C3%83O+%C3%89+EVOLU%C3%87%C3%83O.;C%C3%93DIGO.+DESIGN.+RESULTADO.;NENHUM+BUG+SOBREVIVE+PARA+SEMPRE.;BEM-VINDO+AO+MEU+DOM%C3%8DNIO." alt="Frases animadas em português"/>
 
@@ -29,7 +29,7 @@ Desenvolvedor focado em experiências digitais, interfaces de alto impacto e sis
 > A estética chama atenção. A arquitetura sustenta o resultado. E se o código também parece um filme de terror, temos um problema.
 
 <div align="center">
-<img src="https://media1.tenor.com/m/XM1c6PH4sEkAAAAd/mahoraga.gif" width="280" alt="Mahoraga se adaptando"/>
+<img src="https://jujutsu-kaisen.fandom.com/wiki/Special:FilePath/Sukuna_vs._Mahoraga_(Anime).gif" width="280" alt="Mahoraga se adaptando"/>
 <br/>
 <sub>PROTOCOLO DE ADAPTAÇÃO // ANALISAR · AJUSTAR · SUPERAR</sub>
 </div>
@@ -147,7 +147,7 @@ Experimentos com animações, interfaces imersivas, efeitos visuais e experiênc
 Soluções que conectam interfaces, bancos de dados, APIs e processos operacionais, reduzindo tarefas manuais e sistemas desconectados.
 
 <div align="center">
-<img src="https://media1.tenor.com/m/XM1c6PH4sEkAAAAd/mahoraga.gif" width="300" alt="Mahoraga enfrentando um ataque"/>
+<img src="https://jujutsu-kaisen.fandom.com/wiki/Special:FilePath/Mahoraga_overpowered_by_the_effects_of_Malevolent_Shrine_(Anime).gif" width="300" alt="Mahoraga enfrentando um ataque"/>
 </div>
 
 ## 04 // TELEMETRIA DO SISTEMA

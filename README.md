@@ -50,9 +50,9 @@
 
 Desenvolvedor focado em **experiências digitais**, **interfaces de alto impacto** e **sistemas funcionais**. Combino front-end, animações, integração de serviços e direção visual para transformar ideias em produtos digitais consistentes.
 
-À frente da **AETHER**, desenvolvo websites, landing pages, sistemas personalizados e automações sob medida.
+Desenvolvo websites autorais, landing pages, sistemas personalizados e automações sob medida.
 
-> *A estética chama atenção. A arquitetura sustenta o resultado. E se o código também parece um filme de terror, temos um problema.*
+> *A estética chama atenção. A arquitetura sustenta o resultado. E se o código não se adpta, temos um problema.*
 
 </td>
 <td width="32%" align="center" valign="middle">

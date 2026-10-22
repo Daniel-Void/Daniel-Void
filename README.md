@@ -2,11 +2,10 @@
 
 <div align="center">
 
-<img src="hero-mahoraga.png" width="100%" alt="Mahoraga rasgando o tecido do README"/>
+<img src="./assets/mahoraga.png" width="340" alt="Mahoraga"/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=DANIEL%20VOID&fontSize=62&fontColor=ff2638&fontAlignY=55&animation=fadeIn&stroke=ff2638&strokeWidth=1" width="100%" alt="Daniel Void"/>
 
-<img src="https://media1.tenor.com/m/RgcmmAArI4MAAAAC/jjk.gif" width="320" alt="Mahoraga em pixel art"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2400&pause=850&color=FF2638&center=true&vCenter=true&width=850&lines=ADAPTA%C3%87%C3%83O+%C3%89+EVOLU%C3%87%C3%83O.;C%C3%93DIGO.+DESIGN.+RESULTADO.;NENHUM+BUG+SOBREVIVE+PARA+SEMPRE.;BEM-VINDO+AO+MEU+DOM%C3%8DNIO." alt="Frases animadas"/>
 
@@ -45,26 +44,11 @@
 
 ## `01` &nbsp;//&nbsp; O OPERADOR
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 Desenvolvedor focado em **experiências digitais**, **interfaces de alto impacto** e **sistemas funcionais**. Combino front-end, animações, integração de serviços e direção visual para transformar ideias em produtos digitais consistentes.
 
 À frente da **AETHER**, desenvolvo websites, landing pages, sistemas personalizados e automações sob medida.
 
 > *A estética chama atenção. A arquitetura sustenta o resultado. E se o código também parece um filme de terror, temos um problema.*
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://media1.tenor.com/m/EsKEg3Z_OiAAAAAd/jjk-jujutsu-kaisen.gif" width="100%" alt="Mahoraga se adaptando"/>
-<br/>
-<sub><b>ANALISAR · AJUSTAR · SUPERAR</b></sub>
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
 
@@ -230,10 +214,6 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 </tr>
 </table>
 
-<div align="center">
-<img src="https://media1.tenor.com/m/XM1c6PH4sEkAAAAd/mahoraga.gif" width="300" alt="Mahoraga enfrentando um ataque"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
 
 ## `04` &nbsp;//&nbsp; TELEMETRIA DO SISTEMA
@@ -304,4 +284,4 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 </div>
 
 <!-- Nota: o GitHub não executa JavaScript/CSS personalizado em README.
-     As animações são GIFs e imagens SVG externas. -->
+     As animações são imagens SVG externas. -->

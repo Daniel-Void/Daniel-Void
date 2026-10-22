@@ -1,22 +1,22 @@
-<!-- DANIEL VOID // MAHORAGA ADAPTATION SYSTEM v4 -->
+<!-- ╔════════════════════════════════════════════════════╗ -->
+<!-- ║             DANIEL VOID / CORE SYSTEM              ║ -->
+<!-- ╚════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 <a href="https://github.com/Daniel-Void">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=DANIEL%20VOID&fontSize=68&fontColor=ff2638&stroke=ff2638&strokeWidth=1&animation=fadeIn&color=0:050505,35:160307,70:390711,100:050505&desc=ADAPTATION%20%2F%20ENGINEERING%20%2F%20CREATION&descSize=13&descAlignY=75&descColor=b9a1a5" width="100%" alt="Daniel Void"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=285&color=0:030303,15:100006,35:30000D,60:8B001E,80:42000E,100:030303&text=DANIEL%20VOID&fontColor=FFFFFF&fontSize=82&fontAlignY=41&fontFamily=Orbitron&fontWeight=900&stroke=FF1744&strokeWidth=1.5&desc=THE%20ADAPTATION%20PROTOCOL&descSize=17&descAlignY=61&animation=fadeIn" width="100%" alt="DANIEL VOID | The Adaptation Protocol"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&duration=4000&pause=2400&color=E8A0A8&center=true&vCenter=true&width=850&height=70&lines=At%C3%A9+o+que+n%C3%A3o+sei+posso+compreender.;Prefiro+estudar+suas+leis+antes+da+dor.;ADAPTA%C3%87%C3%83O+%C3%89+EVOLU%C3%87%C3%83O.;C%C3%93DIGO.+DESIGN.+RESULTADO." alt="Princípios de Daniel Void"/>
-
-<br/>
-
-<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=2200&pause=650&color=FF1744&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%E2%96%B6+INITIALIZING+ADAPTATION+SYSTEM;%E2%96%B6+OBSERVE.+ANALYZE.+EVOLVE.;%E2%96%B6+LIMITATIONS+ARE+VARIABLES.;%E2%96%B6+SYSTEM+STATUS%3A+CONTINUOUS+EVOLUTION" alt="Adaptation system status"/>
 
 <br/><br/>
 
-**`DESENVOLVEDOR`** &nbsp;▪&nbsp; **`ENGENHARIA CRIATIVA`** &nbsp;▪&nbsp; **`FUNDADOR DA AETHER`**
+<img src="https://img.shields.io/badge/IDENTITY-DANIEL_VOID-111111?style=for-the-badge&labelColor=050505&color=8B001E" alt="Identity"/>
+<img src="https://img.shields.io/badge/PROTOCOL-ADAPTIVE-111111?style=for-the-badge&labelColor=050505&color=8B001E" alt="Protocol"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-111111?style=for-the-badge&labelColor=050505&color=8B001E" alt="Status"/>
 
 <br/><br/>
 
@@ -33,7 +33,11 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=8b1525" width="78%" alt=""/>
+<sub>◈ SYSTEM CORE &nbsp; // &nbsp; KNOWLEDGE ACQUISITION &nbsp; // &nbsp; EVOLUTION</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:200008,25:8B001E,50:FF1744,75:8B001E,100:200008" width="92%" alt=""/>
 
 </div>
 
@@ -49,7 +53,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:200008,50:FF1744,100:200008" width="100%" alt=""/>
 
 ## `01` &nbsp;//&nbsp; O OPERADOR
 
@@ -78,7 +82,7 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:200008,50:FF1744,100:200008" width="100%" alt=""/>
 
 ## `02` &nbsp;//&nbsp; ARSENAL TÉCNICO
 
@@ -320,7 +324,7 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:080808,50:390711,100:080808&section=footer&reversal=true" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=155&color=0:030303,20:200008,50:8B001E,80:30000D,100:030303&section=footer&reversal=true" width="100%" alt=""/>
 
 <sub>© DANIEL VOID / AETHER — 2026</sub>
 

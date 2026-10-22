@@ -5,21 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/Daniel-Void">
-  <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="285" viewBox="0 0 1100 285" role="img" aria-label="DANIEL VOID">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050505"/><stop offset=".52" stop-color="#190008"/><stop offset="1" stop-color="#050505"/></linearGradient>
-    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff4f5"/><stop offset=".28" stop-color="#ff9cab"/><stop offset=".55" stop-color="#ff2638"/><stop offset="1" stop-color="#7a0018"/></linearGradient>
-    <filter id="glow" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#ff2638" stroke-opacity=".08" stroke-width="1"/></pattern>
-  </defs>
-  <rect width="1100" height="285" rx="4" fill="url(#bg)"/><rect width="1100" height="285" fill="url(#grid)"/>
-  <path d="M0 34H270L300 4H800L830 34H1100M0 251H330L360 281H740L770 251H1100" fill="none" stroke="#ff2638" stroke-opacity=".55" stroke-width="1.5"/>
-  <path d="M48 62V222M1052 62V222" stroke="#ff2638" stroke-width="2" stroke-opacity=".8"/>
-  <text x="550" y="143" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="83" font-weight="900" letter-spacing="9" fill="url(#metal)" stroke="#ff2638" stroke-opacity=".6" stroke-width=".6" filter="url(#glow)">DANIEL VOID</text>
-  <path d="M295 168H805" stroke="#ff2638" stroke-width="1" stroke-opacity=".8"/>
-  <text x="550" y="202" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" letter-spacing="6" fill="#f4c5cb">THE ADAPTATION PROTOCOL</text>
-  <text x="550" y="235" text-anchor="middle" font-family="monospace" font-size="10" letter-spacing="4" fill="#ff2638">OBSERVE // ADAPT // OVERCOME</text>
-</svg>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=285&color=0:030303,15:100006,35:30000D,60:8B001E,80:42000E,100:030303&text=DANIEL%20VOID&fontColor=FFFFFF&fontSize=88&fontAlignY=42&fontFamily=Black%20Ops%20One&fontWeight=900&stroke=FF1744&strokeWidth=2&desc=THE%20ADAPTATION%20PROTOCOL&descSize=17&descAlignY=63&animation=fadeIn" width="100%" alt="DANIEL VOID | The Adaptation Protocol"/>
 </a>
 
 <br/>

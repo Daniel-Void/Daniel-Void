@@ -1,9 +1,9 @@
+ 
 <!-- DANIEL VOID // MAHORAGA ADAPTATION SYSTEM v2 -->
 
 <div align="center">
-     
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=DANIEL%20VOID&fontSize=62&fontColor=ff2638&fontAlignY=55&animation=fadeIn&stroke=ff2638&strokeWidth=1" width="100%" alt="Daniel Void"/>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=DANIEL%20VOID&fontSize=62&fontColor=ff2638&fontAlignY=55&animation=fadeIn&stroke=ff2638&strokeWidth=1" width="100%" alt="Daniel Void"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2400&pause=850&color=FF2638&center=true&vCenter=true&width=850&lines=ADAPTA%C3%87%C3%83O+%C3%89+EVOLU%C3%87%C3%83O.;C%C3%93DIGO.+DESIGN.+RESULTADO.;NENHUM+BUG+SOBREVIVE+PARA+SEMPRE.;BEM-VINDO+AO+MEU+DOM%C3%8DNIO." alt="Frases animadas"/>
 
@@ -42,8 +42,6 @@
 
 ## `01` &nbsp;//&nbsp; O OPERADOR
 
-
-
 <table>
 <tr>
 <td width="68%" valign="middle">
@@ -52,7 +50,7 @@ Operação Desenvolvedor focado em **experiências digitais**, **interfaces de a
 
 Desenvolvo websites autorais, landing pages, sistemas personalizados e automações sob medida.
 
-> *A estética chama atenção. A arquitetura sustenta o resultado. E se o código não se adpta, temos um problema.*
+> *A estética chama atenção. A arquitetura sustenta o resultado. E se o código não se adapta, temos um problema.*
 
 </td>
 <td width="32%" align="center" valign="middle">
@@ -75,10 +73,7 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 
 <br/>
 
-<p align="center">
-  <img src="./Ícone Minimalista de Timão em Preto.png" width="50" align="absmiddle">
-  <sub><strong>26 SKILLS</strong> ▪ <strong>7 DOMÍNIOS</strong> ▪ EVOLUÇÃO CONTÍNUA</sub>
-</p>
+<sub><strong>26 SKILLS</strong> ▪ <strong>7 DOMÍNIOS</strong> ▪ EVOLUÇÃO CONTÍNUA</sub>
 
 </div>
 
@@ -238,11 +233,31 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <table>
 <tr>
-<td align="center" width="20%"><h3>🎯</h3><b>PRECISÃO</b><br/><sub>Detalhes visuais precisam ter propósito.</sub></td>
-<td align="center" width="20%"><h3>🧬</h3><b>ADAPTAÇÃO</b><br/><sub>A ferramenta serve ao problema, não o contrário.</sub></td>
-<td align="center" width="20%"><h3>⚡</h3><b>DESEMPENHO</b><br/><sub>Animações não justificam uma interface inutilizável.</sub></td>
-<td align="center" width="20%"><h3>🔧</h3><b>MANUTENÇÃO</b><br/><sub>O código deve continuar compreensível depois do último commit.</sub></td>
-<td align="center" width="20%"><h3>🚀</h3><b>ENTREGA</b><br/><sub>Projeto concluído é projeto funcional.</sub></td>
+<td align="center" width="20%" valign="middle">
+<img src="./Ícone Minimalista de Timão em Preto.png" width="50" alt="Roda de adaptação"/>
+<br/><b>PRECISÃO</b><br/>
+<sub>Detalhes visuais precisam ter propósito.</sub>
+</td>
+<td align="center" width="20%" valign="middle">
+<img src="./Ícone Minimalista de Timão em Preto.png" width="50" alt="Roda de adaptação"/>
+<br/><b>ADAPTAÇÃO</b><br/>
+<sub>A ferramenta serve ao problema, não o contrário.</sub>
+</td>
+<td align="center" width="20%" valign="middle">
+<img src="./Ícone Minimalista de Timão em Preto.png" width="50" alt="Roda de adaptação"/>
+<br/><b>DESEMPENHO</b><br/>
+<sub>Animações não justificam uma interface inutilizável.</sub>
+</td>
+<td align="center" width="20%" valign="middle">
+<img src="./Ícone Minimalista de Timão em Preto.png" width="50" alt="Roda de adaptação"/>
+<br/><b>MANUTENÇÃO</b><br/>
+<sub>O código deve continuar compreensível depois do último commit.</sub>
+</td>
+<td align="center" width="20%" valign="middle">
+<img src="./Ícone Minimalista de Timão em Preto.png" width="50" alt="Roda de adaptação"/>
+<br/><b>ENTREGA</b><br/>
+<sub>Projeto concluído é projeto funcional.</sub>
+</td>
 </tr>
 </table>
 

@@ -111,9 +111,6 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,py,java,supabase,postgres,git,github,vercel,vscode,figma&theme=dark&perline=8" alt="Ícones de tecnologias"/>
 
 <br/><br/>
-
-<sub>ARSENAL TÉCNICO // EVOLUÇÃO CONTÍNUA</sub>
-
 </div>
 
 <br/>
@@ -277,9 +274,6 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Daniel-Void/Daniel-Void/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação snake do gráfico de contribuições"/>
-
-<sub>CONTRIBUTION MATRIX // GERADA AUTOMATICAMENTE PELO GITHUB ACTIONS</sub>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:160008,50:FF2638,100:160008" width="100%" alt=""/>

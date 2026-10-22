@@ -269,7 +269,7 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <br/>
 
-> *Mahoraga se adapta ao que enfrenta. Eu prefiro ler a documentação antes de apanhar do problema.*
+> *“Até o que não sei posso compreender. Prefiro estudar suas leis antes que a realidade me obrigue a aprendê-las pela dor. Afinal, a ignorância é uma limitação permanente, e limitações só se tornam intransponíveis quando deixamos de buscar aquilo que existe além delas.”*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
 

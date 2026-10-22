@@ -1,5 +1,4 @@
- 
-<!-- DANIEL VOID // MAHORAGA ADAPTATION SYSTEM v2 -->
+ <!-- DANIEL VOID // MAHORAGA ADAPTATION SYSTEM v3 -->
 
 <div align="center">
 
@@ -28,7 +27,7 @@
 
 <br/>
 
-```ansi
+```text
 ╔══════════════════════════════════════════════════════════╗
 ║  OPERADOR ........ DANIEL VOID                           ║
 ║  ORGANIZAÇÃO ..... AETHER                                ║
@@ -46,7 +45,7 @@
 <tr>
 <td width="68%" valign="middle">
 
-Operação Desenvolvedor focado em **experiências digitais**, **interfaces de alto impacto** e **sistemas funcionais**. Combino front-end, animações, integração de serviços e direção visual para transformar ideias em produtos digitais consistentes.
+Desenvolvedor focado em **experiências digitais**, **interfaces de alto impacto** e **sistemas funcionais**. Combino front-end, animações, integração de serviços e direção visual para transformar ideias em produtos digitais consistentes.
 
 Desenvolvo websites autorais, landing pages, sistemas personalizados e automações sob medida.
 
@@ -71,7 +70,7 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,py,java,supabase,postgres,git,github,vercel,vscode,figma&theme=dark&perline=8" alt="Ícones de tecnologias"/>
 
-<br/>
+<br/><br/>
 
 <sub><strong>26 SKILLS</strong> ▪ <strong>7 DOMÍNIOS</strong> ▪ EVOLUÇÃO CONTÍNUA</sub>
 
@@ -83,7 +82,7 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 <tr>
 <td width="50%" valign="top">
 
-**🟥 FRONT-END** `6`
+**<img src="https://img.shields.io/badge/FRONT--END-ff2638?style=flat-square&labelColor=080808" alt="Front-end"/>** `6`
 
 ![HTML](https://img.shields.io/badge/HTML-080808?style=flat-square&logo=html5&logoColor=ff2638)
 ![CSS](https://img.shields.io/badge/CSS-080808?style=flat-square&logo=css3&logoColor=ff2638)
@@ -93,19 +92,19 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 ![Next.js](https://img.shields.io/badge/Next.js-080808?style=flat-square&logo=nextdotjs&logoColor=ff2638)
 ![Tailwind](https://img.shields.io/badge/Tailwind-080808?style=flat-square&logo=tailwindcss&logoColor=ff2638)
 
-**🟥 MOVIMENTO & VISUAL** `3`
+**<img src="https://img.shields.io/badge/MOVIMENTO_%26_VISUAL-ff2638?style=flat-square&labelColor=080808" alt="Movimento e visual"/>** `3`
 
 ![GSAP](https://img.shields.io/badge/GSAP-080808?style=flat-square&logo=greensock&logoColor=ff2638)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-080808?style=flat-square&logo=framer&logoColor=ff2638)
 ![Three.js](https://img.shields.io/badge/Three.js-080808?style=flat-square&logo=threedotjs&logoColor=ff2638)
 ![Canvas & SVG](https://img.shields.io/badge/Canvas_%26_SVG-080808?style=flat-square&logo=svg&logoColor=ff2638)
 
-**🟥 LINGUAGENS** `2`
+**<img src="https://img.shields.io/badge/LINGUAGENS-ff2638?style=flat-square&labelColor=080808" alt="Linguagens"/>** `2`
 
 ![Python](https://img.shields.io/badge/Python-080808?style=flat-square&logo=python&logoColor=ff2638)
 ![Java](https://img.shields.io/badge/Java-080808?style=flat-square&logo=openjdk&logoColor=ff2638)
 
-**🟥 DADOS & BACK-END** `3`
+**<img src="https://img.shields.io/badge/DADOS_%26_BACK--END-ff2638?style=flat-square&labelColor=080808" alt="Dados e back-end"/>** `3`
 
 ![Supabase](https://img.shields.io/badge/Supabase-080808?style=flat-square&logo=supabase&logoColor=ff2638)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080808?style=flat-square&logo=postgresql&logoColor=ff2638)
@@ -115,12 +114,12 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 </td>
 <td width="50%" valign="top">
 
-**🟥 AUTOMAÇÃO** `2`
+**<img src="https://img.shields.io/badge/AUTOMA%C3%87%C3%83O-ff2638?style=flat-square&labelColor=080808" alt="Automação"/>** `2`
 
 ![Discord](https://img.shields.io/badge/Webhooks_%26_Bots_Discord-080808?style=flat-square&logo=discord&logoColor=ff2638)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-080808?style=flat-square&logo=githubactions&logoColor=ff2638)
 
-**🟥 INFRA & PUBLICAÇÃO** `4`
+**<img src="https://img.shields.io/badge/INFRA_%26_PUBLICA%C3%87%C3%83O-ff2638?style=flat-square&labelColor=080808" alt="Infraestrutura e publicação"/>** `4`
 
 ![Git](https://img.shields.io/badge/Git-080808?style=flat-square&logo=git&logoColor=ff2638)
 ![GitHub](https://img.shields.io/badge/GitHub-080808?style=flat-square&logo=github&logoColor=ff2638)
@@ -128,7 +127,7 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 ![DNS](https://img.shields.io/badge/DNS_%26_Dom%C3%ADnios-080808?style=flat-square&logo=cloudflare&logoColor=ff2638)
 ![Debugging](https://img.shields.io/badge/Debugging-080808?style=flat-square&logo=bugatti&logoColor=ff2638)
 
-**🟥 DESIGN & NEGÓCIOS** `6`
+**<img src="https://img.shields.io/badge/DESIGN_%26_NEG%C3%93CIOS-ff2638?style=flat-square&labelColor=080808" alt="Design e negócios"/>** `6`
 
 ![Design Systems](https://img.shields.io/badge/Design_Systems-080808?style=flat-square&logo=figma&logoColor=ff2638)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX_%26_Identidade-080808?style=flat-square&logo=adobexd&logoColor=ff2638)
@@ -142,7 +141,7 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 </table>
 
 <details>
-<summary><b>▸ VER DETALHAMENTO COMPLETO DAS HABILIDADES</b></summary>
+<summary><strong>VER DETALHAMENTO COMPLETO DAS HABILIDADES</strong></summary>
 
 <br/>
 
@@ -190,38 +189,41 @@ Desenvolvo websites autorais, landing pages, sistemas personalizados e automaç�
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🔴 AETHER
+<h3><img src="https://img.shields.io/badge/A-ff2638?style=flat-square&labelColor=080808" alt="A"/> AETHER</h3>
+
 **SOLUÇÕES DIGITAIS**
 
 Websites, landing pages, sistemas de gestão, automações e integrações desenvolvidos sob medida.
 
 <br/>
 
-[![Acessar](https://img.shields.io/badge/ACESSAR_↗-ff2638?style=for-the-badge&labelColor=080808)](https://aethersingle.online/)
+<a href="https://aethersingle.online/"><img src="https://img.shields.io/badge/ACESSAR_↗-ff2638?style=for-the-badge&labelColor=080808" alt="Acessar Aether"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🔴 CRIATIVO
+<h3><img src="https://img.shields.io/badge/WEB-ff2638?style=flat-square&labelColor=080808" alt="Web"/> CRIATIVO</h3>
+
 **DESENVOLVIMENTO CRIATIVO**
 
 Experimentos com animações, interfaces imersivas, efeitos visuais e experiências web autorais.
 
 <br/>
 
-[![Explorar](https://img.shields.io/badge/EXPLORAR_↗-ff2638?style=for-the-badge&labelColor=080808)](https://daniel.aethersingle.online/)
+<a href="https://daniel.aethersingle.online/"><img src="https://img.shields.io/badge/EXPLORAR_↗-ff2638?style=for-the-badge&labelColor=080808" alt="Explorar projetos"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🔴 SISTEMAS
+<h3><img src="https://img.shields.io/badge/SYS-ff2638?style=flat-square&labelColor=080808" alt="Sistemas"/> SISTEMAS</h3>
+
 **SISTEMAS INTEGRADOS**
 
 Soluções que conectam interfaces, bancos de dados, APIs e processos operacionais, reduzindo tarefas manuais e sistemas desconectados.
 
 <br/>
 
-[![Em operação](https://img.shields.io/badge/EM_OPERA%C3%87%C3%83O-ff2638?style=for-the-badge&labelColor=080808)](https://aethersingle.online/)
+<a href="https://aethersingle.online/"><img src="https://img.shields.io/badge/EM_OPERA%C3%87%C3%83O-ff2638?style=for-the-badge&labelColor=080808" alt="Sistemas em operação"/></a>
 
 </td>
 </tr>
@@ -233,31 +235,35 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <table>
 <tr>
-<td align="center" width="20%" valign="middle">
-<img src="./Ícone Minimalista de Timão em Preto.png" width="50" alt="Roda de adaptação"/>
-<br/><b>PRECISÃO</b><br/>
-<sub>Detalhes visuais precisam ter propósito.</sub>
+<td align="center" width="20%" valign="top">
+<img src="./Ícone Minimalista de Timão em Preto.png" width="50" height="50" alt="Roda de adaptação"/>
 </td>
-<td align="center" width="20%" valign="middle">
-<img src="./Ícone Minimalista de Timão em Preto.png" width="50" alt="Roda de adaptação"/>
-<br/><b>ADAPTAÇÃO</b><br/>
-<sub>A ferramenta serve ao problema, não o contrário.</sub>
+<td align="center" width="20%" valign="top">
+<img src="./Ícone Minimalista de Timão em Preto.png" width="50" height="50" alt="Roda de adaptação"/>
 </td>
-<td align="center" width="20%" valign="middle">
-<img src="./Ícone Minimalista de Timão em Preto.png" width="50" alt="Roda de adaptação"/>
-<br/><b>DESEMPENHO</b><br/>
-<sub>Animações não justificam uma interface inutilizável.</sub>
+<td align="center" width="20%" valign="top">
+<img src="./Ícone Minimalista de Timão em Preto.png" width="50" height="50" alt="Roda de adaptação"/>
 </td>
-<td align="center" width="20%" valign="middle">
-<img src="./Ícone Minimalista de Timão em Preto.png" width="50" alt="Roda de adaptação"/>
-<br/><b>MANUTENÇÃO</b><br/>
-<sub>O código deve continuar compreensível depois do último commit.</sub>
+<td align="center" width="20%" valign="top">
+<img src="./Ícone Minimalista de Timão em Preto.png" width="50" height="50" alt="Roda de adaptação"/>
 </td>
-<td align="center" width="20%" valign="middle">
-<img src="./Ícone Minimalista de Timão em Preto.png" width="50" alt="Roda de adaptação"/>
-<br/><b>ENTREGA</b><br/>
-<sub>Projeto concluído é projeto funcional.</sub>
+<td align="center" width="20%" valign="top">
+<img src="./Ícone Minimalista de Timão em Preto.png" width="50" height="50" alt="Roda de adaptação"/>
 </td>
+</tr>
+<tr>
+<td align="center" valign="top"><strong>PRECISÃO</strong></td>
+<td align="center" valign="top"><strong>ADAPTAÇÃO</strong></td>
+<td align="center" valign="top"><strong>DESEMPENHO</strong></td>
+<td align="center" valign="top"><strong>MANUTENÇÃO</strong></td>
+<td align="center" valign="top"><strong>ENTREGA</strong></td>
+</tr>
+<tr>
+<td align="center" valign="top" height="90"><sub>Detalhes visuais precisam ter propósito.</sub></td>
+<td align="center" valign="top" height="90"><sub>A ferramenta serve ao problema, não o contrário.</sub></td>
+<td align="center" valign="top" height="90"><sub>Animações não justificam uma interface inutilizável.</sub></td>
+<td align="center" valign="top" height="90"><sub>O código deve continuar compreensível depois do último commit.</sub></td>
+<td align="center" valign="top" height="90"><sub>Projeto concluído é projeto funcional.</sub></td>
 </tr>
 </table>
 
@@ -279,11 +285,11 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 <br/>
 
-[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-080808?style=for-the-badge&logo=googlechrome&logoColor=ff2638)](https://daniel.aethersingle.online/)
-[![Aether](https://img.shields.io/badge/AETHER-080808?style=for-the-badge&logo=abstract&logoColor=ff2638)](https://aethersingle.online/)
-[![GitHub](https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Daniel-Void)
+<a href="https://daniel.aethersingle.online/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-080808?style=for-the-badge&logo=googlechrome&logoColor=ff2638" alt="Portfólio"/></a>
+<a href="https://aethersingle.online/"><img src="https://img.shields.io/badge/AETHER-080808?style=for-the-badge&logo=abstract&logoColor=ff2638" alt="Aether"/></a>
+<a href="https://github.com/Daniel-Void"><img src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
 
-<br/>
+<br/><br/>
 
 <sub>DESENVOLVIDO PARA SE ADAPTAR ▪ FEITO PARA ENTREGAR</sub>
 
@@ -295,5 +301,5 @@ Soluções que conectam interfaces, bancos de dados, APIs e processos operaciona
 
 </div>
 
-<!-- Nota: o GitHub não executa JavaScript/CSS personalizado em README.
+<!-- Nota: o GitHub não executa JavaScript ou CSS personalizado em README.
      As animações são imagens SVG externas. -->

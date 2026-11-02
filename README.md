@@ -318,8 +318,6 @@ Detalhes visuais precisam ter propósito. A ferramenta serve ao problema. O cód
 
 <br/>
 
-> *“Até o que não sei posso compreender. Prefiro estudar suas leis antes que a realidade me obrigue a aprendê-las pela dor. Afinal, a ignorância é uma limitação permanente, e limitações só se tornam intransponíveis quando deixamos de buscar aquilo que existe além delas.”*
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff2638" width="100%" alt=""/>
 
 ## `05` &nbsp;//&nbsp; ESTABELECER CONEXÃO
